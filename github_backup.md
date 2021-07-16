@@ -271,6 +271,12 @@ fatal: unable to auto-detect email address (got 'SHON@DESKTOP-FSB8L1D.(none)')
 
 
 
+## pull & push 구조
+
+![pull and push](C:\Users\SHON\github\pull and push.jpg)
+
+
+
 # 복원
 
 * `git clone[원격저장소 주소]`
