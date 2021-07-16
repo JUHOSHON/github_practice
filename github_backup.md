@@ -34,6 +34,8 @@
     * git remote add origin https://github.com/JUHOSHON/review.git
   * git remote 하면 origin이 출력됨
   * git remote -v 하면 상세한, 구체적인 내용이 출력됨
+  * 원격 저장소 별명은 중복될 수 없다.
+  * 기존의 저장소 별명 지우기 : git remote remove [기존 저장소 별명]
 
 
 
