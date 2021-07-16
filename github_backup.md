@@ -106,7 +106,9 @@ command Line Interface
 
 # git의 작동원리
 
-<img src = "C:\Users\SHON\github\git_graphic.jpeg " width = "500" height = "300">
+![git_graphic](https://user-images.githubusercontent.com/87507463/125960141-4bf12cd3-9224-417b-8a59-a27ba1e50766.jpeg)
+
+
 
 
 
