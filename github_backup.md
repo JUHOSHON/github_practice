@@ -25,7 +25,7 @@
 
 ## 원격저장소와 연결
 
-### git remote
+### `git remote`
 
 원격 저장소 정보 출력
 
@@ -37,11 +37,12 @@
 
 
 
-### git push
+### `git push`
 
 원격 저장소에 코드 업로드
 
 * git push  --set upstream [저장소 별명] [브랜치 이름]
+  * remote repository가 디폴트 원격 저장소로 설정되는 것
   * enter 후 이메일을 치면 업로드 성공
   * 한 번만 입력하면 그 후부턴 git push만 입력해도 자동으로 그곳에 저장됨
 
@@ -53,7 +54,7 @@
 
 
 
-### clone
+### `clone`
 
 * git clone [원격저장소 주소]
 
@@ -65,7 +66,7 @@
 
 
 
-### git pull
+### `git pull`
 
 
 
