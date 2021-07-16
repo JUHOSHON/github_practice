@@ -273,7 +273,9 @@ fatal: unable to auto-detect email address (got 'SHON@DESKTOP-FSB8L1D.(none)')
 
 ## pull & push 구조
 
-![pull and push](C:\Users\SHON\github\pull and push.jpg)
+![pull and push](https://user-images.githubusercontent.com/87507463/125962699-de9a6374-82f4-4de3-89fc-26c002b4eac1.jpg)
+
+
 
 
 
